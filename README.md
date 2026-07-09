@@ -1,9 +1,7 @@
 <div align="center">
-  <!-- Un saludo sencillo y elegante -->
   <h1>✨ Hi there, I'm ii0ALiS 💜</h1>
   <p><em>Welcome to my quiet corner of GitHub</em></p>
 
-  <!-- Botones pequeños y ordenados para tus plataformas -->
   <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=flat-square&logo=discord&logoColor=white&color=7289DA" />   <img src="https://img.shields.io/badge/Roblox-%23000000.svg?style=flat-square&logo=roblox&logoColor=white&color=2C2F33" />   <img src="https://img.shields.io/badge/The_Sims_4-%230072C6.svg?style=flat-square&logo=thesims&logoColor=white&color=9400D3" />
 </div>
 
@@ -33,7 +31,6 @@ Aquí puedes ver un pequeño resumen de mi actividad de una forma limpia y minim
 ---
 
 <div align="center">
-  <p>💡 <em>"A veces solo necesitas un café, una buena playlist y un juego reconfortante."</em></p>
-  <!-- Un contador de visitas muy discreto al final -->
+  <p>💡 <em>"A veces solo necesitas una buena coca, una buena playlist y un juego reconfortante."</em></p>
   <img src="https://komarev.com/ghpvc/?username=ii0ALiS&label=connections&color=c4a7e7&style=flat-square" alt="ii0ALiS" />
 </div>
